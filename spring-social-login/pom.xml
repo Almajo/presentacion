@@ -10,7 +10,7 @@
         <artifactId>parent-boot-4</artifactId>
         <groupId>com.baeldung</groupId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath>/parent-boot-4</relativePath>
+        <relativePath>../parent-boot-4</relativePath>
     </parent>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
