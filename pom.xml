@@ -17,6 +17,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<commons-lang3.version>3.3.2</commons-lang3.version>
 		<java.version>1.8</java.version>
+		<start-class>spring-social-login.src.main.java.org.baeldung.config</start-class>
 	</properties>
 
     <dependencies>
